@@ -1,0 +1,16 @@
+.navbar{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:space-around;
+
+    background-color: black;
+}
+a{
+    padding:20px;
+    color:white;
+}
+a:hover{
+    background-color:lightblue;
+    color:black;
+}
