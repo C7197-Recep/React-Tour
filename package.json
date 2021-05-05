@@ -2,7 +2,7 @@
   "name": "react-tour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://C7197-Recep.github.io/react-tour",
+  "homepage": "https://C7197-Recep.github.io/React-Tour",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
