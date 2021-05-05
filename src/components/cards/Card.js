@@ -1,5 +1,5 @@
   
-import React, { Component } from 'react';
+// import React, { Component } from 'react';
 import {data} from '../../helper/data';
 import './Card.css';
 
@@ -16,8 +16,9 @@ const Card = () => {
         return (
             <div className="container">
                 {arr}
-
-            {/* {data.map((item, index)=>{
+            
+            {/*BURADA ÇAĞIRILACAKSA RETURNLE KULLANILMALI */
+            /* {data.map((item, index)=>{
                     return <div className="card">{item.title}</div>
                 }
             )} */}
